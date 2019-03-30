@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ungdungdicho</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="DanhSachghicho">DanhSachghicho</string>
+    <string name="tenhang">Tên hàng</string>
+    <string name="donvi">Đơn vị </string>
+    <string name="khoiluong">khối lượng </string>
+    <string name="gia">Gía</string>
+    <string name="mieuta">Miêu tả</string>
+    <string name="HovaTenn">Ho va Ten</string>
+    <string name="masv">MSSV</string>
+    <string name="ChiTietDanhsach">Chi Tiếtt Danh sách</string>
+    <string name="date">date</string>
+    <string name="kietthuc">Kết thúc</string>
+
+</resources>
